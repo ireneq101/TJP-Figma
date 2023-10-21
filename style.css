@@ -22,20 +22,15 @@ main {
 }
 
 
-.figure {
-    width: 50%;
-}
-
 
 figure img {
     width: 50%;
-    margin: auto;
 }
 
 
 section {
     width: 50%;
-    margin-right: 5%;
+    margin-right: 2%;
     margin-left: 2%;
 }
 
@@ -62,7 +57,7 @@ h1 {
     background-color: transparent;
     font-size: 1.75rem;
     border-radius: 15px;
-    border: 1px solid rgba(0, 0, 0, 0.40);
+    border: 1px solid black;
     cursor: pointer;
 }
 
@@ -92,7 +87,7 @@ input {
     gap: 24px;
     font-size: 1.75rem;
     border-radius: 15px;
-    border: 1px solid rgba(0, 0, 0, 0.40);
+    border: 1px solid black;
     background-color: transparent;
 }
 
