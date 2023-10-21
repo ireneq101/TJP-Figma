@@ -23,14 +23,9 @@ main {
 
 
 
-figure {
+
+figure img {
     width: 50%;
-}
-
-
-
-img {
-    width: 100%;
     margin: auto;
 }
 
@@ -38,8 +33,7 @@ img {
 section {
     width: 50%;
     margin-right: 5%;
-    margin-left: 2%;
-    margin-top: 5%;
+    margin-left: 5%;
 }
 
 
@@ -57,7 +51,7 @@ h1 {
 
 .google-sign {
     display: flex;
-    /* justify-content: center; */
+    justify-content: center;
     align-items: center;
     gap: 48px;
     padding: 20px 30px;
@@ -91,7 +85,6 @@ form {
 
 input {
     padding: 24px 30px;
-    margin-top: 5px;
     margin-bottom: 56px;
     gap: 24px;
     font-size: 1.75rem;
