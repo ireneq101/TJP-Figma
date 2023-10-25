@@ -37,7 +37,7 @@ section {
 
 
 h1 {
-    font-size: 3.5rem;
+    font-size: 56px;
     color: #222;
     text-align: center;
     font-weight: 700;
@@ -82,9 +82,8 @@ form {
 
 
 input {
-    padding: 24px 30px;
-    margin-bottom: 56px;
-    gap: 24px;
+    padding: 4%;
+    margin-bottom: 5%;
     font-size: 1.75rem;
     border-radius: 15px;
     border: 1px solid black;
